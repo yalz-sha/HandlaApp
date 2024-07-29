@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sivayalini\\HandlaApp\\Handla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{294E142A-66AA-4362-A485-7A02E840D5F7}|Handla\\Handla.csproj|c:\\sivayalini\\handlaapp\\handla\\handla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294E142A-66AA-4362-A485-7A02E840D5F7}|Handla\\Handla.csproj|solutionrelative:handla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294E142A-66AA-4362-A485-7A02E840D5F7}|Handla\\Handla.csproj|c:\\sivayalini\\handlaapp\\handla\\handla\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294E142A-66AA-4362-A485-7A02E840D5F7}|Handla\\Handla.csproj|solutionrelative:handla\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294E142A-66AA-4362-A485-7A02E840D5F7}|Handla\\Handla.csproj|c:\\sivayalini\\handlaapp\\handla\\handla\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294E142A-66AA-4362-A485-7A02E840D5F7}|Handla\\Handla.csproj|solutionrelative:handla\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294E142A-66AA-4362-A485-7A02E840D5F7}|Handla\\Handla.csproj|c:\\sivayalini\\handlaapp\\handla\\handla\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294E142A-66AA-4362-A485-7A02E840D5F7}|Handla\\Handla.csproj|solutionrelative:handla\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294E142A-66AA-4362-A485-7A02E840D5F7}|Handla\\Handla.csproj|c:\\sivayalini\\handlaapp\\handla\\handla\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294E142A-66AA-4362-A485-7A02E840D5F7}|Handla\\Handla.csproj|solutionrelative:handla\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294E142A-66AA-4362-A485-7A02E840D5F7}|Handla\\Handla.csproj|c:\\sivayalini\\handlaapp\\handla\\handla\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{294E142A-66AA-4362-A485-7A02E840D5F7}|Handla\\Handla.csproj|solutionrelative:handla\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294E142A-66AA-4362-A485-7A02E840D5F7}|Handla\\Handla.csproj|c:\\sivayalini\\handlaapp\\handla\\handla\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294E142A-66AA-4362-A485-7A02E840D5F7}|Handla\\Handla.csproj|solutionrelative:handla\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294E142A-66AA-4362-A485-7A02E840D5F7}|Handla\\Handla.csproj|c:\\sivayalini\\handlaapp\\handla\\handla\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294E142A-66AA-4362-A485-7A02E840D5F7}|Handla\\Handla.csproj|solutionrelative:handla\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294E142A-66AA-4362-A485-7A02E840D5F7}|Handla\\Handla.csproj|c:\\sivayalini\\handlaapp\\handla\\handla\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294E142A-66AA-4362-A485-7A02E840D5F7}|Handla\\Handla.csproj|solutionrelative:handla\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a34b1c5d-6d37-4a0c-a8b0-99f8e8158b48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{162bbae2-8b7a-4274-acbe-6f068097a69c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{0251bcb7-bf19-4277-a65f-d7efc327bad1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Sivayalini\\HandlaApp\\Handla\\Handla\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Handla\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Sivayalini\\HandlaApp\\Handla\\Handla\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Handla\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAcwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T07:20:02.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Sivayalini\\HandlaApp\\Handla\\Handla\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Handla\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Sivayalini\\HandlaApp\\Handla\\Handla\\Services\\ProductService.cs",
+              "RelativeToolTip": "Handla\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T07:19:01.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sivayalini\\HandlaApp\\Handla\\Handla\\Program.cs",
+              "RelativeDocumentMoniker": "Handla\\Program.cs",
+              "ToolTip": "C:\\Sivayalini\\HandlaApp\\Handla\\Handla\\Program.cs",
+              "RelativeToolTip": "Handla\\Program.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAawE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T07:18:09.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Sivayalini\\HandlaApp\\Handla\\Handla\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "Handla\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Sivayalini\\HandlaApp\\Handla\\Handla\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "Handla\\Interfaces\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T07:17:46.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Sivayalini\\HandlaApp\\Handla\\Handla\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Handla\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Sivayalini\\HandlaApp\\Handla\\Handla\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Handla\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T07:17:27.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Sivayalini\\HandlaApp\\Handla\\Handla\\appsettings.json",
+              "RelativeDocumentMoniker": "Handla\\appsettings.json",
+              "ToolTip": "C:\\Sivayalini\\HandlaApp\\Handla\\Handla\\appsettings.json",
+              "RelativeToolTip": "Handla\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-29T07:17:22.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Sivayalini\\HandlaApp\\Handla\\Handla\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Handla\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Sivayalini\\HandlaApp\\Handla\\Handla\\Services\\OrderService.cs",
+              "RelativeToolTip": "Handla\\Services\\OrderService.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAIwCEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T07:16:55.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Sivayalini\\HandlaApp\\Handla\\Handla\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Handla\\Models\\Product.cs",
+              "ToolTip": "C:\\Sivayalini\\HandlaApp\\Handla\\Handla\\Models\\Product.cs",
+              "RelativeToolTip": "Handla\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T07:16:41.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Sivayalini\\HandlaApp\\Handla\\Handla\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Handla\\Models\\Order.cs",
+              "ToolTip": "C:\\Sivayalini\\HandlaApp\\Handla\\Handla\\Models\\Order.cs",
+              "RelativeToolTip": "Handla\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T06:26:52.996Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
